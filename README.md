@@ -1,4 +1,4 @@
-# Metallica_Tour_Data
+# Scraping Metallica's Tour History
 
 This is my first project using Python to webscrape data. Metallica is a heavy metal band with an extensive touring history dating back to 1982. Their website contains all of their past events with date, location, and setlist (if known and filled in) and there are over 2100 shows in their website catalog. I decided this would be a fun challenge to apply what I learned in the 'Python For Everybody Coursera course taught by Charles Severance.
 
